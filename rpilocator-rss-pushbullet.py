@@ -9,7 +9,7 @@ FEED_URL = 'https://rpilocator.com/feed/'
 
 # After creating your pushbullet account, create an 
 # Access Token and enter it here
-PUSHBULLET_TOKEN = '<your access token here>'
+PUSHBULLET_TOKEN = '<o.iGwszWUj2FjD5hodVfFKI0hztNeo1J62>'
 
 # Customize the message title
 MESSAGE_TITLE = 'xlocator Stock Alert'
